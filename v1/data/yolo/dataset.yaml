@@ -1,0 +1,9 @@
+names:
+- D00
+- D10
+- D20
+- D40
+nc: 4
+path: C:\Users\Srusti\Downloads\eclipse-java-2024-09-R-win32-x86_64\project\full stack\RoadDamageDetection_GITHUB\RoadDamageDetection\v1\data\yolo
+train: train/images
+val: val/images
