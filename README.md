@@ -102,6 +102,9 @@ The system uses **3 AI models** working together:
 ### 🧠 Model 3 — Custom CNN (The Specialist Built from Scratch)
 > **What it does:** Also classifies damage type, but learned everything from road images only
 
+
+![Architecture](v1/architecture.png)
+
 - CNN stands for **Convolutional Neural Network** — a type of AI specifically designed for images
 - This model was built and trained entirely from scratch using only road damage photos
 - It has 4 layers that progressively zoom in on features: edges → textures → patterns → damage types
